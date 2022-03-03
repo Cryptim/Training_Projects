@@ -1,3 +1,7 @@
 {
-    "emulator.androidColdBoot": true
+    "emulator.androidColdBoot": true,
+    "cSpell.words": [
+        "notelist"
+    ],
+    "emulator.emulatorPathWindows": "C:\\Users\\timothy\\AppData\\Local\\Android\\Sdk\\emulator"
 }
